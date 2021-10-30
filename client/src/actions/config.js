@@ -1,0 +1,9 @@
+export const ERROR = "ERROR";
+export const AUTHORIZED = "AUTHORIZED";
+export const LOGOUT = "LOGOUT";
+export const EMPLOYEES = "EMPLOYEES";
+export const SUPPLIES = "SUPPLIES";
+export const MENU = "MENU";
+export const ORDERS = "ORDERS";
+export const PREPARINGORDERS = "PREPARINGORDERS";
+export const ORDERSREPORT = "ORDERSREPORT";
